@@ -1,0 +1,6 @@
+Pergunta,Opção 1,Opção 2,Opção 3,Opção 4,Resposta Correta
+"Qual o valor de saída do código: print(2 + 3 * 4)?",14,20,24,10,1
+"Qual estrutura repete um bloco enquanto a condição for verdadeira?",if,switch,while,def,3
+"O que significa a sigla ""IDE""?",Internet Data Exchange,Integrated Development Environment,Input Device Emulator,Internal Debug Engine,2
+"Qual desses representa um operador lógico?",++,==,&&,<<,3
+"O que é um algoritmo?",Um bug no código,Um tipo de variável,Um passo a passo para resolver um problema,Uma linguagem de programação,3
